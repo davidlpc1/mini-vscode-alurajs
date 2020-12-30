@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omariosouto/mini-vscode-alurajs.git"
+    "url": "git+https://github.com/davidlpc1/mini-vscode-alurajs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omariosouto/mini-vscode-alurajs/issues"
+    "url": "https://github.com/davidlpc1/mini-vscode-alurajs/issues"
   },
-  "homepage": "https://github.com/omariosouto/mini-vscode-alurajs#readme"
+  "homepage": "https://github.com/davidlpc1/mini-vscode-alurajs#readme"
 }
